@@ -1,5 +1,5 @@
 var url = window.location.href;
-var apikey = 'cf13816c8c701f1918f1f03511f96578ef93c6a3c92dce17929920d59624b9c1';
+var apikey = 'Insert your API Key here';
 
 function scan(){
 
